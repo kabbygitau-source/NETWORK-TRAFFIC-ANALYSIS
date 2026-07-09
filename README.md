@@ -1,6 +1,14 @@
 # NETWORK-TRAFFIC-ANALYSIS
 Network Traffic Analysis is a cybersecurity project using Wireshark to capture and analyze network packets. It demonstrates protocol analysis, traffic filtering, threat detection, and network troubleshooting to improve visibility, security, and performance.
 
+
+Network Traffic Analysis (NTA) is the process of capturing, monitoring, and analyzing data packets as they travel across a network. It helps security professionals understand how devices communicate, identify normal network behavior, and detect unusual or malicious activities. By examining network traffic, organizations can gain visibility into their infrastructure, improve performance, and strengthen their overall cybersecurity posture. Common tools used for network traffic analysis include Wireshark, tcpdump, Zeek, and NetworkMiner.
+
+Network traffic analysis plays a vital role in identifying cyber threats such as malware infections, unauthorized access attempts, denial-of-service (DoS) attacks, and data exfiltration. Analysts inspect protocols such as TCP, UDP, HTTP, HTTPS, DNS, and ICMP to understand communication patterns and detect anomalies. Packet captures (PCAP files) provide detailed information about packet headers, source and destination IP addresses, ports, and payloads, enabling investigators to trace suspicious activities and respond effectively to security incidents.
+
+In practical cybersecurity environments, network traffic analysis supports incident response, vulnerability assessments, forensic investigations, and continuous network monitoring. It allows organizations to verify firewall rules, troubleshoot connectivity issues, and ensure compliance with security policies. By regularly analyzing network traffic, security teams can detect threats early, minimize potential damage, and maintain the confidentiality, integrity, and availability of network resources. This proactive approach enhances both network reliability and organizational resilience against evolving cyber threats.
+
+
                       OBJECTIVES
   <img width="419" height="410" alt="Screenshot From 2026-07-09 11-31-12" src="https://github.com/user-attachments/assets/3c9e5504-cba7-4fb5-9f6c-651445e77371" />
   
